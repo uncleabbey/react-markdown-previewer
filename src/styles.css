@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+#editor {
+float: left;
+height: 800px;
+} 
+#preview {
+float: right;
+overflow: hidden;
+height: 800px;
+} 
